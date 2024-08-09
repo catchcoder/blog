@@ -1,7 +1,12 @@
+---
+title: "Make USB flash drive Read-Only"
+date: 09-08-2024
+---
+
 ## Requirements:
  - USB flash Drive
  - Windows 10/11
- - 
+   
 ## Instructions to make a USB flash drive Read-Only.
 
 Start by running a command prompt (as administrator)
