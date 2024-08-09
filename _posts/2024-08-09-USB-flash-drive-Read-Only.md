@@ -32,6 +32,6 @@ Note: This method has been tested using FAT32, exFAT and NTFS file systems.
 
 ## Images
 
-![DISKPART command showing Read-Only flag is set to Yes](https://github.com/catchcoder/skills-github-pages/blob/9fa24a011d4aa2c5482f65ed7b8aedd5fb64b1e8/_images/diskpart-readonly-set.PNG)
+![DISKPART command displaying the Read-Only flag is set to Yes](https://github.com/catchcoder/blog/blob/73ff6ccc36be5da085a4d2070c20fb4bb75c08fa/_images/diskpart-readonly-set.PNG)
 
-![DISKPART command showing Read-Only flag is set to No](https://github.com/catchcoder/skills-github-pages/blob/9fa24a011d4aa2c5482f65ed7b8aedd5fb64b1e8/_images/diskpart-readonly-cleared.PNG)
+![DISKPART command displaying he Read-Only flag is set to No](https://github.com/catchcoder/blog/blob/73ff6ccc36be5da085a4d2070c20fb4bb75c08fa/_images/diskpart-readonly-cleared.PNG)
