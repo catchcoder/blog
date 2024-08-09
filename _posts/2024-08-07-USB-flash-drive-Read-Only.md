@@ -30,7 +30,7 @@ Start by running a command prompt (as administrator)
 
 Note: This method has been tested using FAT32, exFAT and NTFS file systems.
 
-## Images
+## Images from DISKPART
 
 ![DISKPART command displaying the Read-Only flag is set to Yes](https://github.com/catchcoder/blog/blob/73ff6ccc36be5da085a4d2070c20fb4bb75c08fa/_images/diskpart-readonly-set.PNG)
 
