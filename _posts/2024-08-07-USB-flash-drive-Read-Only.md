@@ -40,7 +40,7 @@ Note: This method has been tested using FAT32, exFAT and NTFS file systems.
 
 </kbd>
 
-<br>
+</br>
 
 <kbd>
 
