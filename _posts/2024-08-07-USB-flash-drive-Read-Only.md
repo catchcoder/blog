@@ -4,7 +4,7 @@ date: 07-08-2024
 ---
 
 ## Requirements:
- - <img src="https://github.com/catchcoder/blog/blob/e6222755c7efb6c80f22956fcbe647155c3ae05c/_images/usb_24dp_000000.png?raw=true" width=16> USB Flash Drive
+ - <img src="https://github.com/catchcoder/blog/blob/bd66d09881b807cc84b6c53d39998db51fd92cc2/_images/usb_24dp_000000.png?raw=true" width=16> USB Flash Drive
  - <img src="https://github.com/catchcoder/blog/blob/ad4004d6c115ecae68b709174c407b0bc0068952/_images/computer_24dp_000000.png?raw=true" width=16> Windows 7/10/11
    
 ## Instructions on how to make a USB flash drive Read-Only.
