@@ -32,4 +32,6 @@ Note: This method has been tested using FAT32, exFAT and NTFS file systems.
 
 ## Images from DISKPART
 
-NONE
+![DISKPART command displaying the Read-Only attribute set to No](https://github.com/catchcoder/blog/blob/8bcfb76d9ea63bc79af5b5fc24d2554e6d697c15/_images/diskpart-readonly-cleared.PNG)
+
+![DISKPART command displaying the Read-Only attribute set to Yes](https://github.com/catchcoder/blog/blob/8bcfb76d9ea63bc79af5b5fc24d2554e6d697c15/_images/diskpart-readonly-set.PNG)
