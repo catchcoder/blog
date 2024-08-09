@@ -1,6 +1,6 @@
 ---
 title: "Make USB flash drive Read-Only"
-date: 09-08-2024
+date: 07-08-2024
 ---
 
 ## Requirements:
