@@ -33,5 +33,7 @@ Note: This method has been tested using FAT32, exFAT and NTFS file systems.
 ## Images from DISKPART
 
 ![DISKPART command displaying the Read-Only attribute set to No](https://github.com/catchcoder/blog/blob/8bcfb76d9ea63bc79af5b5fc24d2554e6d697c15/_images/diskpart-readonly-cleared.PNG?raw=true "Diskpart disk attributes Read-Only: No")
+*Diskpart disk attributes Read-Only: No*
 
 ![DISKPART command displaying the Read-Only attribute set to Yes](https://github.com/catchcoder/blog/blob/8bcfb76d9ea63bc79af5b5fc24d2554e6d697c15/_images/diskpart-readonly-set.PNG?raw=true "Diskpart disk attributes Read-Only: Yes")
+*Diskpart disk attributes Read-Only: Yes*
