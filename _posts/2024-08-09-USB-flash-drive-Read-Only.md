@@ -4,7 +4,7 @@ date: 09-08-2024
 ---
 
 ## Requirements:
- - USB flash Drive
+ - USB Flash Drive
  - Windows 10/11
    
 ## Instructions to make a USB flash drive Read-Only.
@@ -29,3 +29,7 @@ Start by running a command prompt (as administrator)
 1. type "attributes disk clear readonly" then "exit"
 
 Note: This method has been tested using FAT32, exFAT and NTFS file systems.
+
+![DISKPART command showing Read-Only flag is set to Yes](_images/diskpart-readonly-cleared.PNG)
+
+![DISKPART command showing Read-Only flag is set to No](_images/diskpart-readonly-set.PNG)
