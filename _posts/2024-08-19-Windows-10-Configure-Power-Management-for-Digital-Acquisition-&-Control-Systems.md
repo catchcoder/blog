@@ -11,7 +11,8 @@ It is also worth noting the hard disk free space, memory and when using USB make
 
 
 Type "Edit Power Plan" on the search bar and
-!["Edit Power Plan"]("https://github.com/catchcoder/blog/blob/main/_images/disableUSBpowermanagement0.PNG?raw=true?raw=true")
+!["Edit Power Plan"]("https://github.com/catchcoder/blog/blob/777ec477a60ec34dbb67c6a065f1c541e8d228fe/_images/disableUSBpowermanagement0.PNG?raw=true")
+
 
 
 
