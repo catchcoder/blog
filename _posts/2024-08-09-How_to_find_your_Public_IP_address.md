@@ -13,3 +13,9 @@ curl -4 icanhazip.com
 curl ipecho.net/plain
 ```
 
+## Powershell
+
+```powershell
+$json = Invoke-WebRequest -Uri ipecho.net/plain
+$json.Content
+```
