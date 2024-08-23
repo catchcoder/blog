@@ -1,7 +1,21 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-minimal_mistakes_skin    : "dirt"
+theme: minima
+
+minima:
+  # Minima skin selection.
+  # Available skins are:
+  # classic	           Default, light color scheme.
+  # dark	             Dark variant of the classic skin.
+  # auto	             Adaptive skin based on the default classic and dark skins.
+  # solarized-light	   Light variant of solarized color scheme.
+  # solarized-dark	   Dark variant of solarized color scheme.
+  # solarized	         Adaptive skin for solarized color scheme skins.
+  skin: dark
+
+description: >
+  Write an awesome description for your new site here. You can edit this line
+  in _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.xml site description.
+
 title: [CaTcHcoder
  Blog]
 description: []
