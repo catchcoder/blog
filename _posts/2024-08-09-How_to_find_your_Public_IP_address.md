@@ -3,8 +3,6 @@ title: "How to find out what your Public IP address"
 date: 09-08-2024
 ---
 
-# How to find out what your Public IP address
-
 ## Linux 
 
 ```bash
