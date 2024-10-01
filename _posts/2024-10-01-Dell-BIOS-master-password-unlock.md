@@ -1,4 +1,7 @@
-
+---
+title: "How to bypass Dell Bios Lock"
+date: 01-10-2024
+---
 
 
 1) Go the bios screen
