@@ -5,12 +5,13 @@ date: 01-10-2024
 
 ## Instructions
 
-1. Load the bios screen
-2. Click on the unlock button. 
-3. Write down the system number
-4. Go to (bios-pw.org)
-5. Enter the system number
-6. Write down the Dell password from serial number
-7. Put the above as the unlock password.
-8. Then press control and enter
-9. Click load system defaults
+1. Turn on the computer.
+2. At the Dell logo, tap the F2 key several times.
+3. Click on the unlock button. 
+4. Write down the system number
+5. Go to [https://bios-pw.org/](https://bios-pw.org/)
+6. Enter the system number
+7. Write down the Dell password from the serial number
+8. Put the above as the unlock password.
+9. Then press control and enter
+10. Click load system defaults
