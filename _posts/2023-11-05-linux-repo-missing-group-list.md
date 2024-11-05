@@ -1,5 +1,5 @@
 ---
-title: "Yum and missing grouplist"
+title: "Linux repo with missing grouplist"
 date: 05-11-2024
 ---
 
